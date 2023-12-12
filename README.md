@@ -106,5 +106,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize this README to provide additional details or clarify any specific instructions related to your sorting algorithm visualization project.
